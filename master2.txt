@@ -1,1 +1,1 @@
-i am trying to get an idea of how merge conflict may arise but no progress.
+I changed whatever was written here earlier.
