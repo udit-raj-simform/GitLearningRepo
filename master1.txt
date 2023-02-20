@@ -1,2 +1,1 @@
-i don't know how to create a merge conflict.
-to be continued in master2...
+Since whatever there was in master has been updated, i am updateing master 1 as well.
