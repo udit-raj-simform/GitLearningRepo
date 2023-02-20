@@ -1,1 +1,1 @@
-I changed the earlier text with this new txt.
+i am trying to get an idea of how merge conflict may arise but no progress.
